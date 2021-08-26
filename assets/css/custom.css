@@ -1849,13 +1849,13 @@ Google map
   text-align: center;
   list-style: none;
   padding: 0;
-  margin: 0 0 70px;
+  margin: 0 0 30px;
 }
 
 .filter > li {
   display: inline-block;
   padding: 0 0 10px;
-  margin: 0 25px;
+  margin: 0 15px;
 }
 
 /* Portfolio grid */
