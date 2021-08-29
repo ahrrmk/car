@@ -929,8 +929,19 @@ blockquote {
   margin-bottom: 20px;
 }
 
+.module-title-jp {
+  text-align: center;
+  font-size: 12px;
+  color: #111;
+  margin-bottom: 70px;
+}
+
 .module-title + .module-subtitle {
   margin-top: -35px;
+}
+
+.module-title + .module-title-jp {
+  margin-top: -60px;
 }
 
 /* Restaurant module header */
