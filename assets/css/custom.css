@@ -1,0 +1,17 @@
+.bound-img:hover {
+  position: relative;
+  overflow: hidden;
+  animation: bound 2s infinite;
+}
+
+@keyframes bound {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-30px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
