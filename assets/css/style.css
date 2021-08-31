@@ -1125,7 +1125,8 @@ Hero Slider
 .caption-content {
   display: table-cell;
   vertical-align: middle;
-  text-align: center;
+  /*text-align: center;*/
+  padding-left: 50px;
 }
 
 /*
@@ -1392,12 +1393,12 @@ General Styles - Owlcarousel
 .titan-title-size-1 {
   letter-spacing: 4px;
   font-size: 15px;
+  opacity: .8;
 }
 
 .titan-title-size-2 {
-  line-height: 1.3;
-  letter-spacing: 3px;
-  font-size: 18px;
+  letter-spacing: 6px;
+  font-size: 24px;
   opacity: .8;
 }
 
