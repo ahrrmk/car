@@ -1126,7 +1126,6 @@ Hero Slider
   display: table-cell;
   vertical-align: middle;
   /*text-align: center;*/
-  padding-left: 50px;
 }
 
 /*
@@ -1256,10 +1255,19 @@ General Styles - Owlcarousel
   border-radius: 0;
   z-index: 1000;
   font-family: 'M PLUS Rounded 1c', sans-serif;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   letter-spacing: 3px;
   font-size: 11px;
   transition: background, padding 0.4s ease-in-out 0s;
+  /*  add */
+  background: #222;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 7px,
+    rgba(0, 0, 0, 0.8) 9px,
+    rgba(0, 0, 0, 0.8) 13px,
+    transparent 13px
+  );
 }
 
 .navbar a {
@@ -1275,7 +1283,7 @@ General Styles - Owlcarousel
 }
 
 .navbar-custom .navbar-brand {
-  letter-spacing: 4px;
+  /*letter-spacing: 4px;*/
   font-weight: 400;
   font-size: 20px;
   color: #fff;
