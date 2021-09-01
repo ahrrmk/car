@@ -1390,19 +1390,19 @@ General Styles - Owlcarousel
 }
 
 .titan-title-size-1 {
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   font-size: 15px;
-  opacity: .8;
+  /*opacity: .8;*/
 }
 
 .titan-title-size-2 {
-  letter-spacing: 6px;
+  letter-spacing: 4px;
   font-size: 24px;
-  opacity: .8;
+  /*opacity: .8;*/
 }
 
 .titan-title-size-3 {
-  letter-spacing: 10px;
+  letter-spacing: 6px;
   font-size: 32px;
 }
 

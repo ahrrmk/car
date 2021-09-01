@@ -1,4 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+.top-title-font {
+  font-family: 'Zen Dots', cursive;
+  text-transform: initial;
+}
+
+.top-message-font {
+  text-transform: initial;
+}
+
+.font-english {
+  font-family: 'M PLUS 1p', sans-serif;
+}
 
 .neon-title {
   letter-spacing: 1px;
@@ -9,7 +20,7 @@
   color: #fccaff; */
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
     color: #fff6a9;
-  font-family: 'Yellowtail', cursive;
+  font-family: 'Zen Dots', cursive;
   animation: blink 12s infinite;
   -webkit-animation: blink 12s infinite;
 }
