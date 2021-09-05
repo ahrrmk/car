@@ -648,7 +648,7 @@ a,
 --------------------------------------------------------------*/
 .btn {
   border-radius: 0;
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'M PLUS 1p', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 11px;
@@ -812,7 +812,7 @@ a,
 
 /* Forms common style */
 .form-control {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'M PLUS 1p', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 11px;
@@ -888,13 +888,13 @@ blockquote {
 }
 
 .font-alt {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'M PLUS 1p', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
 
 .font-serif {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'M PLUS 1p', sans-serif;
   font-style: italic;
 }
 
@@ -1254,8 +1254,8 @@ General Styles - Owlcarousel
   border: 0;
   border-radius: 0;
   z-index: 1000;
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-  /*text-transform: uppercase;*/
+  font-family: 'M PLUS 1p', sans-serif;
+  text-transform: uppercase;
   letter-spacing: 3px;
   font-size: 11px;
   transition: background, padding 0.4s ease-in-out 0s;
@@ -2307,7 +2307,7 @@ Google map
   content: "\f106";
   top: 50%;
   right: 0px;
-  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'M PLUS 1p', sans-serif;
   line-height: 1;
   font-size: 14px;
   margin-top: -7px;

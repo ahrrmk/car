@@ -1,9 +1,9 @@
 .top-title-font {
-  font-family: 'Zen Dots', cursive;
-  text-transform: initial;
+  font-family: 'Anton', sans-serif;
 }
 
 .top-message-font {
+  font-family: 'Noto Serif JP', serif;
   text-transform: initial;
 }
 
@@ -75,4 +75,22 @@
   text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
     color: #fff6a9;
   }
+}
+
+.demoTxt1 {
+  opacity: 0;
+}
+.demoTxt1 span {
+  opacity: 0;
+  -webkit-transition: .6s ease-in-out;
+  transition: .6s ease-in-out;
+}
+
+.demoTxt2 {
+  opacity: 0;
+}
+.demoTxt2 span {
+  opacity: 0;
+  -webkit-transition: .6s ease-in-out;
+  transition: .6s ease-in-out;
 }
