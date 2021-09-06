@@ -11,14 +11,22 @@
   color: #111;
 }
 
+.font-gray {
+  color: #4d5156;
+}
+
+.background-filter {
+  background: rgba(0, 0, 0, 0.3);
+}
+
 .message-font {
   font-size: 16px;
-  color: #1a2023;
+  color: #333333;
 }
 
 .message-sub-font {
   font-size: 14px;
-  color: #1a2023;
+  color: #686868;
 }
 
 .font-english {
