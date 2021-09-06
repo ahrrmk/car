@@ -620,7 +620,8 @@ a,
 }
 
 .landing-image-text {
-  padding-top: 70px;
+  /*padding-top: 70px;*/
+  padding-top: 10px;
   padding-bottom: 0px;
 }
 
@@ -888,14 +889,13 @@ blockquote {
 }
 
 .font-alt {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
 
 .font-serif {
-  font-family: 'M PLUS 1p', sans-serif;
-  font-style: italic;
+  font-family: 'Noto Serif JP', serif;
 }
 
 .large-text {
@@ -1601,7 +1601,7 @@ Google map
 /* Content box */
 .content-box {
   margin: 20px 0;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .content-box-title {
@@ -2307,7 +2307,7 @@ Google map
   content: "\f106";
   top: 50%;
   right: 0px;
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   line-height: 1;
   font-size: 14px;
   margin-top: -7px;

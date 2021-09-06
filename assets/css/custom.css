@@ -7,8 +7,22 @@
   text-transform: initial;
 }
 
+.font-black {
+  color: #111;
+}
+
+.message-font {
+  font-size: 16px;
+  color: #1a2023;
+}
+
+.message-sub-font {
+  font-size: 14px;
+  color: #1a2023;
+}
+
 .font-english {
-  font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 .neon-title {
